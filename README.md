@@ -1,3 +1,4 @@
+
 <h1>HANGMAN GAME using PYTHON</h1>
 <pre>Hangman game in python is a simple program which has been designed to demonstrate different application formats and syntax of python programming language.
 
@@ -30,5 +31,6 @@ The objective of the game hangman is to guess the word (phrases) in the time lim
 
 Bonus  for guessing a word ‘will be added to your score for guessing a word  and bonus per 1 sec remaining will be added to you for each remaining second . 
 If you fail to guess the word in the limit, ‘bonus for completing the level ‘will be subtracted from you score.
+
 
 
