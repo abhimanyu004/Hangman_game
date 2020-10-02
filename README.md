@@ -14,6 +14,7 @@ The most frequently used control statements in this Hangman Game are if() ,
 elif() sentences as well as iterative statements such as for()loop , while() loop .
 
 The main purpose of the project is to illustrate use of control structures.
+'
 </pre>
 
 <h3>Features</h3>
